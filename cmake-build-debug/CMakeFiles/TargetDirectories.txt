@@ -1,0 +1,3 @@
+C:/Users/yukhn/CLionProjects/matrix_rotate/cmake-build-debug/CMakeFiles/matrix_rotate.dir
+C:/Users/yukhn/CLionProjects/matrix_rotate/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yukhn/CLionProjects/matrix_rotate/cmake-build-debug/CMakeFiles/rebuild_cache.dir
